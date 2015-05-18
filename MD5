@@ -1,0 +1,11 @@
+d26a852fd000d99e114b7b96423e7275 *DESCRIPTION
+3f96d85ea4c670cad90d36a94236be1d *NAMESPACE
+413355ac08f62c2d3b4f8ff6aabe1342 *R/greyzoneSurvpackage.R
+348574957b97c49564b4c72e23db7085 *build/partial.rdb
+33e9866b86d76e8ff1e8f83cecece3dd *data/mydata.rda
+a345176d7b3c556820b111cac7f1332b *man/all.greyzone.funcs.Rd
+3c5d56eab903f2e565847d2be684307f *man/bestcut2.Rd
+5362413efff6b388acc978123714519b *man/cox.summary.Rd
+5f973f94fb00e35886dd15a97a02d17d *man/genSurvData.Rd
+28027143a08983f60a5b589675b04fdf *man/greyzoneSurv-package.Rd
+cc70c7ec7cf9f81d72c5adbfb3043d0d *man/mydata.Rd

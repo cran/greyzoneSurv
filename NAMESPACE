@@ -1,0 +1,8 @@
+#exportPattern("^[[:alpha:]]+")
+export(em.func)
+export(cov.func)
+export(greyzone.func)
+export(genSurvData)
+export(bestcut2)
+export(cox.summary)
+import(stats4, survival, Hmisc, survAUC)
